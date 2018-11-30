@@ -15,10 +15,12 @@ I running some mosquitto mqtt brokers with a simple configuration stucture based
 
 1. there should be a seperated directory for all your users. Example:
 
+```
 pass/broker/
   admin
   user1
   user2
+```
 
 2. the user password file should be follow this structure:
 
